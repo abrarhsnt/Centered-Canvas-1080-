@@ -1,0 +1,2 @@
+- Put your image locations in this line input_dir = input("Enter the path to the folder containing images: ").strip()
+- When a prompt comes, just type your desired folder name where the newly created photos will be saved.
